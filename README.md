@@ -35,7 +35,7 @@ You have to launch the program with a parameter. This is the name of the fractal
 </tr>
 <tr>
 <td valign="top" height="30px">Change the map</td>
-<td valign="top" align="center"><kbd>&nbsp;enter&nbsp;</kbd></td>
+<td valign="top" align="center"><kbd>&nbsp;c&nbsp;</kbd></td>
 </tr>
 <tr>
 <td valign="top" height="30px">Move the fractal to the up</td>
@@ -62,16 +62,11 @@ You have to launch the program with a parameter. This is the name of the fractal
 <td valign="top" align="center"><kbd>&nbsp;-&nbsp;</kbd></td>
 </tr>
 <tr>
-<td valign="top" height="30px">Color 1</td>
-<td valign="top" align="center"><kbd>&nbsp;1&nbsp;</kdb></td>
+  <td valign="top" height="30px">coloration methode changing</td>
+<td valign="top" align="center"><kbd>&nbsp;m&nbsp;</kdb></td>
 </tr>
-<tr>
-<td valign="top" height="30px">Color 2</td>
-<td valign="top" align="center"><kbd>&nbsp;2&nbsp;</kbd></td>
-</tr>
-<tr>
-<td valign="top" height="30px">Color 3</td>
-<td valign="top" align="center"><kbd>&nbsp;3&nbsp;</kbd></td>
+<td valign="top" height="30px">Color changing</td>
+<td valign="top" align="center"><kbd>&nbsp;space&nbsp;</kdb></td>
 </tr>
 </tbody>
 </table>
