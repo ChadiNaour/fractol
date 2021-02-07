@@ -6,12 +6,12 @@ Fractol is a graphic program that render amazing fractals ,developed for my lear
 * Move the current fractal
 * Change the display color and gradient
 * Navigate between the fractals
-* Edit the shape of the fractal with the position of the mouse (only available with the fractal Julia,feigenbaum,burning_julia)
+* Edit the shape of the fractal with the position of the mouse (only available with the fractal Julia,feigenbaum-point ,burning_julia)
 
 ## Install & launch
 ```bash
-git clone https://github.com/BenjaminSouchet/Fractol ~/Fractol
-cd ~/Fractol && ./fractol Julia
+git clone https://github.com/ChadiNaour/Fractol ~/Fractol
+cd ~/Fractol && ./fractol mandelbrot
 ```
 You have to launch the program with a parameter. This is the name of the fractal you would like to open at the execution of the program. This parameter as to be the name of a valid fractal (Julia, Mandelbrot, Burning-julia, Feigenbaum, Teardrop or Tricorn).<br />
 
@@ -26,7 +26,7 @@ Example :
 # Teardrop:
 <img width="1004" alt="Screen Shot 2021-02-07 at 3 49 50 PM" src="https://user-images.githubusercontent.com/52707617/107150271-4a0a5c00-695d-11eb-81c1-7ef2a6c7419b.png">
 
-# Feigenbaum:
+# Feigenbaum-point :
 <img width="1005" alt="Screen Shot 2021-02-07 at 3 50 50 PM" src="https://user-images.githubusercontent.com/52707617/107150274-4b3b8900-695d-11eb-9994-37354b34ea57.png">
 
 # Burning-julia:
