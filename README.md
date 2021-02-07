@@ -10,8 +10,8 @@ Fractol is a graphic program that render amazing fractals ,developed for my lear
 
 ## Install & launch
 ```bash
-git clone https://github.com/ChadiNaour/Fractol ~/Fractol
-cd ~/Fractol && ./fractol mandelbrot
+git clone https://github.com/ChadiNaour/fractol ~/fractol
+cd ~/fractol && ./fractol mandelbrot
 ```
 You have to launch the program with a parameter. This is the name of the fractal you would like to open at the execution of the program. This parameter as to be the name of a valid fractal (Julia, Mandelbrot, Burning-julia, Feigenbaum, Teardrop or Tricorn).<br />
 
