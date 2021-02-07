@@ -68,6 +68,18 @@ You have to launch the program with a parameter. This is the name of the fractal
 <td valign="top" height="30px">Color changing</td>
 <td valign="top" align="center"><kbd>&nbsp;space&nbsp;</kdb></td>
 </tr>
+<tr>
+<td valign="top" height="30px">Freez Julia</td>
+<td valign="top" align="center"><kbd>&nbsp;j&nbsp;</kbd></td>
+</tr>
+<tr>
+<td valign="top" height="30px">Freez Feingenbaum-point</td>
+<td valign="top" align="center"><kbd>&nbsp;f&nbsp;</kbd></td>
+</tr>
+<tr>
+<td valign="top" height="30px">Freez Burning-julia</td>
+<td valign="top" align="center"><kbd>&nbsp;b&nbsp;</kbd></td>
+</tr>
 </tbody>
 </table>
 
@@ -85,11 +97,6 @@ You have to launch the program with a parameter. This is the name of the fractal
 </tr>
 </thead>
 <tbody>
-<tr>
-<td valign="top" height="30px">Freez Julia</td>
-<td valign="top" align="center"><kbd>&nbsp;left click&nbsp;</kbd></td>
-</tr>
-<tr>
 <td valign="top" height="30px">Zoom</td>
 <td valign="top" align="center"><kbd>&nbsp;scroll up&nbsp;</kbd></td>
 </tr>
