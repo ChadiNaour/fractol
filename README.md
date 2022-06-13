@@ -45,6 +45,7 @@ You have to launch the program with a parameter. This is the name of the fractal
 <td valign="top" height="30px">Move the fractal to the down</td>
 <td valign="top" align="center"><kbd>&nbsp;▼&nbsp;</kbd></td>
 </tr>
+
 <tr>
 <td valign="top" height="30px">Move the fractal to the left</td>
 <td valign="top" align="center"><kbd>&nbsp;◄&nbsp;</kbd></td>
@@ -109,8 +110,7 @@ You have to launch the program with a parameter. This is the name of the fractal
 
 Example :
 # Mandelbrot:
-<img width="873" alt="fractol" src="https://user-images.githubusercontent.com/52707617/173425228-e3f8cf26-1776-4956-b038-9b7cfde76c60.png">
-
+<img width="870" alt="Capture d’écran 2022-06-13 à 19 59 56" src="https://user-images.githubusercontent.com/52707617/173425564-8e1d203e-85f8-46c4-865e-f3843c3b73f6.png">
 
 # Julia:
 <img width="1000" alt="Screen Shot 2021-02-07 at 4 06 50 PM" src="https://user-images.githubusercontent.com/52707617/107150548-9904c100-695e-11eb-9a42-96eccd5d8c68.png">
