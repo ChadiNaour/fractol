@@ -109,7 +109,8 @@ You have to launch the program with a parameter. This is the name of the fractal
 
 Example :
 # Mandelbrot:
-<img width="1010" alt="Screen Shot 2021-02-07 at 3 44 47 PM" src="https://user-images.githubusercontent.com/52707617/107150266-4676d500-695d-11eb-9567-084960075668.png">
+<img width="873" alt="fractol" src="https://user-images.githubusercontent.com/52707617/173425228-e3f8cf26-1776-4956-b038-9b7cfde76c60.png">
+
 
 # Julia:
 <img width="1000" alt="Screen Shot 2021-02-07 at 4 06 50 PM" src="https://user-images.githubusercontent.com/52707617/107150548-9904c100-695e-11eb-9a42-96eccd5d8c68.png">
