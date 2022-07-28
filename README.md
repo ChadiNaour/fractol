@@ -110,17 +110,17 @@ You have to launch the program with a parameter. This is the name of the fractal
 
 Example :
 # Mandelbrot:
-<img width="870" alt="Capture d’écran 2022-06-13 à 19 59 56" src="https://user-images.githubusercontent.com/52707617/173425564-8e1d203e-85f8-46c4-865e-f3843c3b73f6.png">
+<img width="1279" alt="Capture d’écran 2022-07-28 à 16 44 25" src="https://user-images.githubusercontent.com/52707617/181580968-df679ab4-9b29-468f-86c8-554117e267b7.png">
 
 # Julia:
-<img width="1000" alt="Screen Shot 2021-02-07 at 4 06 50 PM" src="https://user-images.githubusercontent.com/52707617/107150548-9904c100-695e-11eb-9a42-96eccd5d8c68.png">
-<img width="1004" alt="Screen Shot 2021-02-07 at 3 45 26 PM" src="https://user-images.githubusercontent.com/52707617/107150269-48409880-695d-11eb-86d1-26640dc38f31.png">
+<img width="1269" alt="Capture d’écran 2022-07-28 à 14 18 59" src="https://user-images.githubusercontent.com/52707617/181581035-321134c4-61a1-450f-bc88-0403dc5ab748.png">
+<img width="1267" alt="Capture d’écran 2022-07-28 à 14 18 13" src="https://user-images.githubusercontent.com/52707617/181581064-5fad6ed9-38e7-464e-9ade-38eabb612606.png">
 
 # Teardrop:
-<img width="1004" alt="Screen Shot 2021-02-07 at 3 49 50 PM" src="https://user-images.githubusercontent.com/52707617/107150271-4a0a5c00-695d-11eb-81c1-7ef2a6c7419b.png">
+<img width="1269" alt="Capture d’écran 2022-07-28 à 14 20 31" src="https://user-images.githubusercontent.com/52707617/181581134-d38f69cf-4d96-4275-b2d2-9f2ce2f21513.png">
 
 # Feigenbaum-point :
-<img width="1005" alt="Screen Shot 2021-02-07 at 3 50 50 PM" src="https://user-images.githubusercontent.com/52707617/107150274-4b3b8900-695d-11eb-9994-37354b34ea57.png">
+<img width="1273" alt="Capture d’écran 2022-07-28 à 14 19 46" src="https://user-images.githubusercontent.com/52707617/181581166-569fccab-f11f-4236-ab03-7afa05bc11d3.png">
 
 # Burning-julia:
-<img width="1002" alt="Screen Shot 2021-02-07 at 3 51 50 PM" src="https://user-images.githubusercontent.com/52707617/107150275-4d054c80-695d-11eb-8e94-9bf3679a23aa.png">
+<img width="1277" alt="Capture d’écran 2022-07-28 à 14 17 21" src="https://user-images.githubusercontent.com/52707617/181581239-35d700fc-9baa-4e8b-88a3-63a18062ac4b.png">
